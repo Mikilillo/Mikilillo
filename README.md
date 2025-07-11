@@ -8,7 +8,7 @@
 ### 🚀 Sobre mí:
 - 🔭 Actualmente aprendiendo desarrollo **Frontend** (HTML, CSS, JavaScript y Git).
 - 🧠 Siempre buscando mejorar mis habilidades con cada línea de código.
-- 🎯 Objetivo: Convertirme en un desarrollador profesional y crear soluciones que impacten positivamente.
+- 🎯 Objetivo: Formarme como desarrollador y construir soluciones reales que mejoren vidas (o al menos no rompan nada 😅).
 
 ---
 
